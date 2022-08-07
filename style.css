@@ -43,16 +43,12 @@ body {
   font-weight: 400;
   font-size: 1rem;
 }
-ul {
-  list-style-type: none;
-}
-li {
-  text-align: center;
-}
 .links-container {
   padding: 1rem 0.75rem;
+  list-style-type: none;
 }
 .links-container li {
+  text-align: center;
   margin: 1rem 0;
 }
 .nav-link {
